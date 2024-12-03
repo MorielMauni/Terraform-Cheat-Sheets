@@ -10,11 +10,6 @@
 
 ?   terraform import resource_type.resource_name.id
 
-*/
-
-
-
-/*
 
 ############################### *! Workspace- OSS ##############################
 
