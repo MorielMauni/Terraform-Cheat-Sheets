@@ -18,9 +18,7 @@
 ?       * -auto-approve = create without asking
 ?   terraform destroy
 
-*/
 
-/*
 ############################## *! Resource Block ##############################
     
     resource "resource_name" "name" {
